@@ -1,14 +1,18 @@
-# Dressmaker — PC notes
+# Dressmaker Trainer +54 Free Download 2026
 
-Short Windows checklist for Dressmaker. I keep the live option list (+54) and file on the listing below; this repo is just a public bookmark with a bit of context.
+**Dressmaker trainer**, **Dressmaker trainer download**, **Dressmaker cheat**, **Dressmaker hack**, **Dressmaker cheats**,
+**скачать трейнер Dressmaker**, **трейнер Dressmaker 2026** — MoggyDay.
 
-Listing: [https://moggydaytrainer.com/en/f/dressmaker-trener-skachat-tkan-dengi-zakazy-2026](https://moggydaytrainer.com/en/f/dressmaker-trener-skachat-tkan-dengi-zakazy-2026)
+**Dressmaker trainer +54** free download 2026 — Dressmaker cheat / Dressmaker hack / скачать трейнер Dressmaker. Works on the current Steam patch.
 
-## What I keep on the listing
+**Download (current patch):** [https://moggydaytrainer.com/en/f/dressmaker-trener-skachat-tkan-dengi-zakazy-2026](https://moggydaytrainer.com/en/f/dressmaker-trener-skachat-tkan-dengi-zakazy-2026)  
+**RU:** [https://moggydaytrainer.com/f/dressmaker-trener-skachat-tkan-dengi-zakazy-2026](https://moggydaytrainer.com/f/dressmaker-trener-skachat-tkan-dengi-zakazy-2026)
 
-Build string on that page: **v1.0.0**. It currently shows **+54** rows. A few of them:
+## Dressmaker trainer — current Steam patch
 
-| # | Name |
+Works on the **latest PC / Steam patch** (v1.0.0). After a game update, reload the same URL.
+
+| # | Option |
 |---|---|
 | 1 | Infinite Fabric |
 | 2 | Infinite Thread |
@@ -18,10 +22,12 @@ Build string on that page: **v1.0.0**. It currently shows **+54** rows. A few of
 | 6 | Instant Sew |
 | 7 | No Broken Stitch |
 | 8 | Unlock All Patterns |
+| 9 | Unlock All Fabrics |
+| 10 | Unlock All Trims |
 
-I do not attach an executable here. If the game patches, reload the same URL.
+No `.exe` in this GitHub tree. The **Dressmaker trainer free download** button is on moggydaytrainer.com.
 
-## Why this repo exists
+## Keywords
 
-GitHub is a bookmark with a bit of context. The listing on moggydaytrainer.com is the
-page I actually use when the option names move.
+`Dressmaker trainer` · `Dressmaker trainer free` · `Dressmaker trainer 2026` · `Dressmaker cheat` · `Dressmaker hack` ·
+`скачать трейнер Dressmaker` · `трейнер Dressmaker бесплатно` · MoggyDay TrainerHub
